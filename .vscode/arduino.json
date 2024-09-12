@@ -1,0 +1,8 @@
+{
+    "programmer": "USBtinyISP",
+    "board": "adafruit:samd:adafruit_itsybitsy_m0",
+    "configuration": "opt=small,usbstack=arduino,debug=off",
+    "output": "../.output.ArduinoTinkering",
+    "port": "COM3",
+    "sketch": "KeyboardWingsv2\\KeyboardWingsv2.ino"
+}
