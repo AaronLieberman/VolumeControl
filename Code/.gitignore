@@ -5,6 +5,7 @@ temp/
 *.userprefs
 .vs/
 .vscode/
+.output.ArduinoTinkering/
 
 *.orig
 

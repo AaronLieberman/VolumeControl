@@ -17,7 +17,7 @@ const int kNextSwitchPin = 5;
 const int kLedPin = LED_BUILTIN;
 
 const int kEncoderPinA = 1;
-const int kEncoderPinB = 2;
+const int kEncodearPinB = 2;
 
 Encoder _encoder(kEncoderPinA, kEncoderPinB, 2);
 LatchButton _playSwitch(kPlaySwitchPin);
